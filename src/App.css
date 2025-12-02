@@ -44,3 +44,6 @@ body {
 .read-the-docs {
   color: #888;
 }
+.form-check-input {
+  cursor: pointer;
+}
